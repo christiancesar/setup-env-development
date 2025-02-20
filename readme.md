@@ -1,7 +1,7 @@
 # Instalação de ambiente de desenvolvimento para Javascript/Typescript
 
 ## Ferramentas
-- [Winget] - Instalador de pacotes padrão do Windows
+- [Winget](https://learn.microsoft.com/pt-br/windows/package-manager/winget/) - Instalador de pacotes padrão do Windows
 - [Node.js](https://nodejs.org/en/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/)
